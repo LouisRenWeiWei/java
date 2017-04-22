@@ -11,6 +11,7 @@ http://bbs.csdn.net/topics/391909962
   
   3. Spring事务配置的五种方式和spring里面事务的传播属性和事务隔离级别
   http://blog.csdn.net/it_man/article/details/5074371
+  http://www.cnblogs.com/younggun/archive/2013/07/16/3193800.html
 
   4. spring bean的作用域和生命周期
    http://www.cnblogs.com/balfish/p/4689228.html
