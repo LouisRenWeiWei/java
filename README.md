@@ -15,3 +15,8 @@ http://bbs.csdn.net/topics/391909962
 
   4. spring bean的作用域和生命周期
    http://www.cnblogs.com/balfish/p/4689228.html
+   
+   5.  Spring 事物机制总结
+   http://blog.csdn.net/pingnanlee/article/details/11488695
+   
+   
